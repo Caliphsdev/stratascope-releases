@@ -17,5 +17,6 @@ Signed update checks apply to downloaded publisher updates, not your installed L
 Choose Notify only before modifying libraries: an explicitly installed publisher update replaces
 the application directory, so keep your replacement build and reapply it afterward if compatible.
 
-Release-specific source archives, build commands, patches and versions must be supplied with each
-public release. Until that record is complete, the distribution gate remains closed.
+Release-specific source archives accompany the download. See
+[0.2.4 native library builds](native-builds-0.2.4.md) for versions, build commands,
+upstream build recipes and the supplied patch archive.

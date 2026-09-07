@@ -12,18 +12,25 @@ explore surface signatures and create reproducible maps and reports. It supports
 Landsat workflows, reviewed ASTER inputs, spectral analysis and SRTM terrain mapping. Intermediate
 results can be reviewed before continuing. A4/A3 layouts and readable reports retain author credits.
 
-This repository currently contains public documentation and free-pilot terms. It will host
-**approved installers, release notes and required third-party sources** after release review.
+This repository contains **free-pilot installers, release notes, signed update metadata,
+licence notices and required third-party sources**.
 MSONICOP's proprietary application source stays in a separate private repository.
 
 ## Availability
 
-The 0.2.4 candidate adds all-band colour views, common-grid imagery preparation and stacking,
-EPSG coordinate selection and polygon-reference geological classification. It is under technical
-licensing review; no public installer or update feed is available yet. MSONICOP has deferred external
-lawyer review for this free pilot; no independent legal review or certification is claimed.
-When approved, install from Releases; existing 0.1.x users should choose the Migration installer.
-Configured installed copies receive verified updates through Settings → Updates. Choose Automatic
+**[StrataScope 0.2.4 is available](https://github.com/Caliphsdev/stratascope-releases/releases/tag/v0.2.4).**
+It adds all-band colour views, common-grid imagery preparation and stacking, EPSG coordinate
+selection and polygon-reference geological classification. For a new Windows x64 installation,
+download `StrataScope-0.2.4-Setup.exe` from that release. Existing 0.2.3 users can select
+**Settings → Updates → Stable → Check now**. A verified update installs on a safe exit;
+save your work and close the app when the ready notice appears. Pilot installers do not yet
+have Windows publisher signing and may display Windows installation warnings.
+
+The older 0.2.3 installer in the release is retained for offline repair, not the recommended
+new installation. Contact MSONICOP for migration from a legacy 0.1.x tester installation.
+MSONICOP has deferred external lawyer review for this free pilot; no independent legal review
+or certification is claimed. The release includes its technical review summary and notices.
+Installed copies receive verified updates through Settings → Updates. Choose Automatic
 or Notify only. Installation waits for safe exit and does not interrupt active processing.
 
 ## Licence and risk limits

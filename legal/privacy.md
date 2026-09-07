@@ -1,6 +1,6 @@
 # Privacy and external connections
 
-Version 2026-09-07.1 · Draft for review
+Version 2026-09-08.1 · Free pilot privacy notice
 
 MSONICOP, South Africa, publishes StrataScope. Contact Caliphs Zvinowanda at
 caliphs.zvinowanda@gmail.com or +27 84 406 1507 for privacy enquiries.
@@ -32,5 +32,8 @@ imagery, online maps and update checks need a connection. Notify only prevents a
 downloads but still permits periodic metadata checks. You can disable scheduled update checks.
 
 If you email support, MSONICOP receives what you choose to send. Send only relevant information and
-remove sensitive project content. Support correspondence retention and formal POPIA procedures
-must be confirmed during the publisher's legal/privacy review before public distribution.
+remove sensitive project content. You may use the contact above to request information about,
+access to, correction of or deletion of personal information you have sent to MSONICOP, subject
+to applicable law and any lawful retention requirements. Do not send passwords or authentication
+tokens. This notice does not claim that external services are controlled by MSONICOP or that the
+publisher's privacy arrangements have been independently certified.

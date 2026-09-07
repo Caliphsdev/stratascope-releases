@@ -12,7 +12,8 @@ explore surface signatures and create reproducible maps and reports. It supports
 Landsat workflows, reviewed ASTER inputs, spectral analysis and SRTM terrain mapping. Intermediate
 results can be reviewed before continuing. A4/A3 layouts and readable reports retain author credits.
 
-This repository contains **approved installers, release notes, legal notices and third-party sources**.
+This repository currently contains public documentation and draft legal notices. It will host
+**approved installers, release notes and required third-party sources** after release review.
 MSONICOP's proprietary application source stays in a separate private repository.
 
 ## Availability
@@ -26,8 +27,13 @@ Free pilot use includes professional/client work under the application terms. Su
 does not prove deposits, grades, reserves or economic viability. Independent professional assessment
 and field/laboratory verification are required. Some published workflows remain locked pending validation.
 
+Sentinel-2 and Landsat have supported automatic import paths. ASTER currently needs a reviewed scene
+description and suitable raster products; automatic native ASTER ingestion is not complete. No published
+ASTER benchmark or Southern African field-validation study has been reproduced by the app yet.
+
 Saved studies, imported imagery, local libraries and offline maps work offline. Online searches,
 downloads and online tiles need a connection. Windows Settings → Apps removes the app while preserving studies.
 
-Read Application terms, Privacy and Third-party licences in Help → About. Versioned copies accompany
-approved releases. Scientific citations do not imply endorsement by their authors or institutions.
+Read [Application terms](legal/terms.md), [Privacy](legal/privacy.md) and
+[Third-party licences](legal/third-party.md), also available offline in Help → About.
+Versioned copies accompany approved releases. Scientific citations do not imply endorsement by their authors or institutions.

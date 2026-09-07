@@ -18,5 +18,9 @@ and indexed in SQLite; country attributes were reduced for the offline map.
 Online basemap providers and imagery retain their individual conditions and visible attributions.
 QtAwesome's bundled icon fonts retain their respective font, artwork and attribution licences.
 
+The Velopack 1.2.0 updater is distributed under the MIT licence. Copyright © 2021 Caelan Sayler
+and © 2024 Velopack Ltd. The full text is included in the bundled component notices.
+Source and licence: https://github.com/velopack/velopack/tree/1.2.0.
+
 Scientific references credit equations and interpretations; they do not license unrelated paper
 text or figures and do not imply endorsement by the authors, Qt, NASA, USGS or other providers.

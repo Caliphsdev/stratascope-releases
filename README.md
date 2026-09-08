@@ -18,16 +18,18 @@ MSONICOP's proprietary application source stays in a separate private repository
 
 ## Availability
 
-**[StrataScope 0.2.4 is available](https://github.com/Caliphsdev/stratascope-releases/releases/tag/v0.2.4).**
-It adds all-band colour views, common-grid imagery preparation and stacking, EPSG coordinate
-selection and polygon-reference geological classification. For a new Windows x64 installation,
-download `StrataScope-0.2.4-Setup.exe` from that release. Existing 0.2.3 users can select
-**Settings → Updates → Stable → Check now**. A verified update installs on a safe exit;
-save your work and close the app when the ready notice appears. Pilot installers do not yet
-have Windows publisher signing and may display Windows installation warnings.
+**[StrataScope 0.2.5 is available](https://github.com/Caliphsdev/stratascope-releases/releases/tag/v0.2.5).**
+It adds organised layers, linked map comparison, pixel inspection, field-check observations,
+project vector geodatabases with linked rasters, result evidence, a remote-sensing toolbox,
+CEM detection, band calculations, histogram controls and improved desktop appearance.
+For a new Windows x64 installation, download `StrataScope-0.2.5-Setup.exe` from that release.
+Existing update-enabled users can select **Settings → Updates → Stable → Check now**.
+A verified update installs on a safe exit; save your work and close the app when the ready
+notice appears. Pilot installers do not yet have Windows publisher signing and may display
+Windows installation warnings.
 
-The older 0.2.3 installer in the release is retained for offline repair, not the recommended
-new installation. Contact MSONICOP for migration from a legacy 0.1.x tester installation.
+Previous installers remain available in their original releases for repair. Contact MSONICOP
+for migration from a legacy 0.1.x tester installation.
 MSONICOP has deferred external lawyer review for this free pilot; no independent legal review
 or certification is claimed. The release includes its technical review summary and notices.
 Installed copies receive verified updates through Settings → Updates. Choose Automatic
@@ -49,11 +51,9 @@ only where lawful; mandatory rights and third-party licence permissions are pres
 
 Surface evidence
 does not prove deposits, grades, reserves or economic viability. Independent professional assessment
-and field/laboratory verification are required. Some published workflows remain locked pending validation.
+and field/laboratory verification are required. Paper-specific pegmatite and brine workflows requiring unavailable author datasets have been removed; saved results remain readable.
 
-Sentinel-2 and Landsat have supported automatic import paths. ASTER currently needs a reviewed scene
-description and suitable raster products; automatic native ASTER ingestion is not complete. No published
-ASTER benchmark or Southern African field-validation study has been reproduced by the app yet.
+Sentinel-2 and Landsat have supported automatic import paths. Native ASTER reflectance and emissivity import is supported for the implemented product types, with product and quality checks. Raw atmospheric correction and independent geological field validation are not claimed.
 
 Saved studies, imported imagery, local libraries and offline maps work offline. Online searches,
 downloads and online tiles need a connection. Windows Settings → Apps removes the app while preserving studies.

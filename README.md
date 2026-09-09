@@ -18,11 +18,12 @@ MSONICOP's proprietary application source stays in a separate private repository
 
 ## Availability
 
-**[StrataScope 0.2.5 is available](https://github.com/Caliphsdev/stratascope-releases/releases/tag/v0.2.5).**
-It adds organised layers, linked map comparison, pixel inspection, field-check observations,
-project vector geodatabases with linked rasters, result evidence, a remote-sensing toolbox,
-CEM detection, band calculations, histogram controls and improved desktop appearance.
-For a new Windows x64 installation, download `StrataScope-0.2.5-Setup.exe` from that release.
+**[StrataScope 0.2.6 is available](https://github.com/Caliphsdev/stratascope-releases/releases/tag/v0.2.6).**
+It improves grouped project layers, boundary styling, map legends and coordinate labels,
+map layouts with separate analysis exports, 3D elevation viewing, save/error feedback,
+interrupted-export recovery and graceful shutdown. Screening remains exploratory
+surface evidence; physical power-loss durability has not been verified.
+For a new Windows x64 installation, download `StrataScope-0.2.6-Setup.exe` from that release.
 Existing update-enabled users can select **Settings → Updates → Stable → Check now**.
 A verified update installs on a safe exit; save your work and close the app when the ready
 notice appears. Pilot installers do not yet have Windows publisher signing and may display
